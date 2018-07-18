@@ -14,6 +14,8 @@
 
 ## Usage
 
+Firstly, run `python setup.py build_ext --inplace` to build the non-projective MST decoder. 
+
 Training scripts are in the `scripts` folder, and `acl18-dev.sh` is used for prediction. 
 
 More details coming soon ...
